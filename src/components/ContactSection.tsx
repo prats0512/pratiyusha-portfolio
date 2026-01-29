@@ -28,13 +28,13 @@ const ContactSection = () => {
     {
       icon: Github,
       label: "GitHub",
-      link: "https://github.com/prats4344",
+      link: "https://github.com/prats0512",
       color: "hover:text-gray-300"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      link: "https://www.linkedin.com/in/pratiyushakanungo-sp4344/",
+      link: "https://www.linkedin.com/in/pratiyushakanungo/",
       color: "hover:text-blue-400"
     }
   ];
